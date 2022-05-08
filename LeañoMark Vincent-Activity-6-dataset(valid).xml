@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<airports>
+	<id id="6523">
+		<ident> 00A </ident>
+		<type> heliport </type>
+		<name> Total Rf Heliport </name>
+		<latitude_deg> 40.07080078 </latitude_deg>
+		<longitude_deg> -74.93360138 </longitude_deg>
+		<elevation_ft> 11 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-PA </iso_region>
+		<municipality> Bensalem </municipality>
+	</id>
+
+
+	<id id="323361">
+		<ident> 00AA </ident>
+		<type> small_airport </type>
+		<name> Aero B Ranch Airport </name>
+		<latitude_deg> 38.704022 </latitude_deg>
+		<longitude_deg> -101.473911 </longitude_deg>
+		<elevation_ft> 3435 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-KS </iso_region>
+		<municipality> Leoti </municipality>
+	</id>
+
+	<id id="6524">
+		<ident> 00AK </ident>
+		<type> small_airport </type>
+		<name> Lowell Field </name>
+		<latitude_deg> 59.947733 </latitude_deg>
+		<longitude_deg> -151.692524 </longitude_deg>
+		<elevation_ft> 450 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-AK </iso_region>
+		<municipality> Anchor Point </municipality>
+	</id>
+
+	<id id="6525">
+		<ident> 00AL </ident>
+		<type> small_airport </type>
+		<name> Epps Airpark </name>
+		<latitude_deg> 34.8647995 </latitude_deg>
+		<longitude_deg> -86.77030182 </longitude_deg>
+		<elevation_ft> 820 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-AL </iso_region>
+		<municipality> Harvest </municipality>
+	</id>
+
+	<id id="6526">
+		<ident> 00AR </ident>
+		<type> closed </type>
+		<name> Newport Hospital and Clinic Heliport </name>
+		<latitude_deg> 35. 6087 </latitude_deg>
+		<longitude_deg> -91.254898 </longitude_deg>
+		<elevation_ft> 237 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-AR </iso_region>
+		<municipality> Newport </municipality>
+	</id>
+
+	<id id="322127">
+		<ident> 00AS </ident>
+		<type> small_airport </type>
+		<name> Fulton Airport </name>
+		<latitude_deg> 34.9428028 </latitude_deg>
+		<longitude_deg> -97.8180194 </longitude_deg>
+		<elevation_ft> 1100 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-OK </iso_region>
+		<municipality> Alex </municipality>
+	</id>
+
+	<id id="6527">
+		<ident> 00AZ </ident>
+		<type> small_airport </type>
+		<name> Cordes Airport </name>
+		<latitude_deg> 34.30559921 </latitude_deg>
+		<longitude_deg> -112.1650009 </longitude_deg>
+		<elevation_ft> 3810 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-AZ </iso_region>
+		<municipality> Cordes </municipality>
+	</id>
+
+	<id id="6528">
+		<ident> 00CA </ident>
+		<type> small_airport </type>
+		<name> Goldstone (GTS) Airport </name>
+		<latitude_deg> 35.35474 </latitude_deg>
+		<longitude_deg> -116.885329 </longitude_deg>
+		<elevation_ft> 3038 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-CA </iso_region>
+		<municipality> Barstow </municipality>
+	</id>
+
+	<id id="324424">
+		<ident> 00CL </ident>
+		<type> small_airport </type>
+		<name> Williams Ag Airport </name>
+		<latitude_deg> 39.427188 </latitude_deg>
+		<longitude_deg> -121.763427 </longitude_deg>
+		<elevation_ft> 87 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-CA </iso_region>
+		<municipality> Biggs </municipality>
+	</id>
+
+	<id id="322658">
+		<ident> 00CN </ident>
+		<type> heliport </type>
+		<name> Kitchen Creek Helibase Heliport </name>
+		<latitude_deg> 32.7273736 </latitude_deg>
+		<longitude_deg> -116.4597417 </longitude_deg>
+		<elevation_ft> 3350 </elevation_ft>
+		<continent> NA </continent>
+		<iso_country> US </iso_country>
+		<iso_region> US-CA </iso_region>
+		<municipality> Pine Valley </municipality>
+	</id>
+</airports>
